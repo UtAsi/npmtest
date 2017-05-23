@@ -1,0 +1,22 @@
+{
+  "name": "npm16gotest",
+  "version": "0.0.1",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtAsi/npmtest.git"
+  },
+  "keywords": [
+    "npm16gotest"
+  ],
+  "author": "16go",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/UtAsi/npmtest#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
