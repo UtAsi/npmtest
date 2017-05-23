@@ -4,3 +4,5 @@
 ```
 npm i npm16gotest
 ```
+
+## usage
